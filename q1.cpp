@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
-
-
 int main() {
-     char ch;
+ char ch;
      cout <<"enter char : ";
      cin >> ch;
 
@@ -17,4 +15,12 @@ int main() {
 
 
     return 0;
+
+
+
+
+
+
+
+   return 0;
 }
