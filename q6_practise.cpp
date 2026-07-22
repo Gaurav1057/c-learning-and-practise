@@ -1,4 +1,4 @@
-#include <iostream> 
+#include <iostream>  //sum of even numbers from 1 to n using for loop
 using namespace std;
 int main() {
 int n = 10;
