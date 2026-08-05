@@ -15,6 +15,7 @@ int main() {
 int binNum = 110010 ;
  cout <<"binary to decimal = " << BintoDec(binNum) << endl ;
 
+ 
     return 0 ;
 }
 
